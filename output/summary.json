@@ -1,0 +1,11 @@
+{
+  "sessions": 250000,
+  "bookings": 12226,
+  "sql_bookings": 12226,
+  "contribution": 288888.85,
+  "promo_cost": 250785.58,
+  "cannibalized_cost": 147500.78,
+  "delta_contribution": 72640.11,
+  "delta_promo_cost": -70583.01,
+  "ab_status": "ship_points"
+}

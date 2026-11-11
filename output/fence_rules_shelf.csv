@@ -1,0 +1,121 @@
+hotel_id,hotel_name,city,stars,fence_id,hotel_net_1n,public_parity_price,mechanic_new,nominal_benefit_pct,effective_cost_pct,customer_pay_price,loyalty_points_eur,unit_margin_pct,parity_compliant,rule_code
+1,Aurelia Palace,Rome,3,public_parity,167.7,187.82,none,0.0,0.0,187.82,0.0,0.0931,1,keep_parity_lock
+1,Aurelia Palace,Rome,3,member_web,167.7,187.82,points,0.09,0.0432,187.82,16.9,0.0499,1,switch_cash_to_points_ab
+1,Aurelia Palace,Rome,3,app_only,167.7,187.82,cash,0.044,0.044,179.56,0.0,0.0058,1,lead_time_tiered_app
+1,Aurelia Palace,Rome,3,cart_recovery,167.7,187.82,points,0.075,0.036,187.82,14.09,0.0571,1,basket_floor_180_points
+1,Aurelia Palace,Rome,3,blanket_promo,167.7,187.82,points,0.05,0.024,187.82,9.39,0.0691,1,retire_blanket_coupon
+2,TrastevereSuites,Rome,4,public_parity,195.0,218.4,none,0.0,0.0,218.4,0.0,0.0931,1,keep_parity_lock
+2,TrastevereSuites,Rome,4,member_web,195.0,218.4,points,0.09,0.0432,218.4,19.66,0.0499,1,switch_cash_to_points_ab
+2,TrastevereSuites,Rome,4,app_only,195.0,218.4,cash,0.044,0.044,208.79,0.0,0.0058,1,lead_time_tiered_app
+2,TrastevereSuites,Rome,4,cart_recovery,195.0,218.4,points,0.075,0.036,218.4,16.38,0.0571,1,basket_floor_180_points
+2,TrastevereSuites,Rome,4,blanket_promo,195.0,218.4,points,0.05,0.024,218.4,10.92,0.0691,1,retire_blanket_coupon
+3,Cavalli Grand,Rome,5,public_parity,241.8,270.82,none,0.0,0.0,270.82,0.0,0.0932,1,keep_parity_lock
+3,Cavalli Grand,Rome,5,member_web,241.8,270.82,points,0.09,0.0432,270.82,24.37,0.05,1,switch_cash_to_points_ab
+3,Cavalli Grand,Rome,5,app_only,241.8,270.82,cash,0.044,0.044,258.9,0.0,0.0058,1,lead_time_tiered_app
+3,Cavalli Grand,Rome,5,cart_recovery,241.8,270.82,points,0.075,0.036,270.82,20.31,0.0572,1,basket_floor_180_points
+3,Cavalli Grand,Rome,5,blanket_promo,241.8,270.82,points,0.05,0.024,270.82,13.54,0.0692,1,retire_blanket_coupon
+4,Eixample Corner,Barcelona,3,public_parity,180.6,202.27,none,0.0,0.0,202.27,0.0,0.0931,1,keep_parity_lock
+4,Eixample Corner,Barcelona,3,member_web,180.6,202.27,points,0.09,0.0432,202.27,18.2,0.0499,1,switch_cash_to_points_ab
+4,Eixample Corner,Barcelona,3,app_only,180.6,202.27,cash,0.044,0.044,193.37,0.0,0.0057,1,lead_time_tiered_app
+4,Eixample Corner,Barcelona,3,cart_recovery,180.6,202.27,points,0.075,0.036,202.27,15.17,0.0571,1,basket_floor_180_points
+4,Eixample Corner,Barcelona,3,blanket_promo,180.6,202.27,points,0.05,0.024,202.27,10.11,0.0691,1,retire_blanket_coupon
+5,Mar Bella Hotel,Barcelona,4,public_parity,210.0,235.2,none,0.0,0.0,235.2,0.0,0.0931,1,keep_parity_lock
+5,Mar Bella Hotel,Barcelona,4,member_web,210.0,235.2,points,0.09,0.0432,235.2,21.17,0.0499,1,switch_cash_to_points_ab
+5,Mar Bella Hotel,Barcelona,4,app_only,210.0,235.2,cash,0.044,0.044,224.85,0.0,0.0058,1,lead_time_tiered_app
+5,Mar Bella Hotel,Barcelona,4,cart_recovery,210.0,235.2,points,0.075,0.036,235.2,17.64,0.0571,1,basket_floor_180_points
+5,Mar Bella Hotel,Barcelona,4,blanket_promo,210.0,235.2,points,0.05,0.024,235.2,11.76,0.0691,1,retire_blanket_coupon
+6,Gothic Quarter Inn,Barcelona,5,public_parity,260.4,291.65,none,0.0,0.0,291.65,0.0,0.0931,1,keep_parity_lock
+6,Gothic Quarter Inn,Barcelona,5,member_web,260.4,291.65,points,0.09,0.0432,291.65,26.25,0.0499,1,switch_cash_to_points_ab
+6,Gothic Quarter Inn,Barcelona,5,app_only,260.4,291.65,cash,0.044,0.044,278.82,0.0,0.0058,1,lead_time_tiered_app
+6,Gothic Quarter Inn,Barcelona,5,cart_recovery,260.4,291.65,points,0.075,0.036,291.65,21.87,0.0571,1,basket_floor_180_points
+6,Gothic Quarter Inn,Barcelona,5,blanket_promo,260.4,291.65,points,0.05,0.024,291.65,14.58,0.0691,1,retire_blanket_coupon
+7,Bosphorus Crest,Istanbul,3,public_parity,127.28,142.55,none,0.0,0.0,142.55,0.0,0.0931,1,keep_parity_lock
+7,Bosphorus Crest,Istanbul,3,member_web,127.28,142.55,points,0.09,0.0432,142.55,12.83,0.0499,1,switch_cash_to_points_ab
+7,Bosphorus Crest,Istanbul,3,app_only,127.28,142.55,cash,0.044,0.044,136.28,0.0,0.0058,1,lead_time_tiered_app
+7,Bosphorus Crest,Istanbul,3,cart_recovery,127.28,142.55,points,0.075,0.036,142.55,10.69,0.0571,1,basket_floor_180_points
+7,Bosphorus Crest,Istanbul,3,blanket_promo,127.28,142.55,points,0.05,0.024,142.55,7.13,0.0691,1,retire_blanket_coupon
+8,Galata Port Suites,Istanbul,4,public_parity,148.0,165.76,none,0.0,0.0,165.76,0.0,0.0931,1,keep_parity_lock
+8,Galata Port Suites,Istanbul,4,member_web,148.0,165.76,points,0.09,0.0432,165.76,14.92,0.0499,1,switch_cash_to_points_ab
+8,Galata Port Suites,Istanbul,4,app_only,148.0,165.76,cash,0.044,0.044,158.47,0.0,0.0058,1,lead_time_tiered_app
+8,Galata Port Suites,Istanbul,4,cart_recovery,148.0,165.76,points,0.075,0.036,165.76,12.43,0.0571,1,basket_floor_180_points
+8,Galata Port Suites,Istanbul,4,blanket_promo,148.0,165.76,points,0.05,0.024,165.76,8.29,0.0691,1,retire_blanket_coupon
+9,Nisantasi House,Istanbul,5,public_parity,183.52,205.54,none,0.0,0.0,205.54,0.0,0.0931,1,keep_parity_lock
+9,Nisantasi House,Istanbul,5,member_web,183.52,205.54,points,0.09,0.0432,205.54,18.5,0.0499,1,switch_cash_to_points_ab
+9,Nisantasi House,Istanbul,5,app_only,183.52,205.54,cash,0.044,0.044,196.5,0.0,0.0058,1,lead_time_tiered_app
+9,Nisantasi House,Istanbul,5,cart_recovery,183.52,205.54,points,0.075,0.036,205.54,15.42,0.0571,1,basket_floor_180_points
+9,Nisantasi House,Istanbul,5,blanket_promo,183.52,205.54,points,0.05,0.024,205.54,10.28,0.0691,1,retire_blanket_coupon
+10,Marina Bay Tower,Dubai,3,public_parity,227.9,255.25,none,0.0,0.0,255.25,0.0,0.0931,1,keep_parity_lock
+10,Marina Bay Tower,Dubai,3,member_web,227.9,255.25,points,0.09,0.0432,255.25,22.97,0.0499,1,switch_cash_to_points_ab
+10,Marina Bay Tower,Dubai,3,app_only,227.9,255.25,cash,0.044,0.044,244.02,0.0,0.0058,1,lead_time_tiered_app
+10,Marina Bay Tower,Dubai,3,cart_recovery,227.9,255.25,points,0.075,0.036,255.25,19.14,0.0571,1,basket_floor_180_points
+10,Marina Bay Tower,Dubai,3,blanket_promo,227.9,255.25,points,0.05,0.024,255.25,12.76,0.0691,1,retire_blanket_coupon
+11,Creekside Residences,Dubai,4,public_parity,265.0,296.8,none,0.0,0.0,296.8,0.0,0.0931,1,keep_parity_lock
+11,Creekside Residences,Dubai,4,member_web,265.0,296.8,points,0.09,0.0432,296.8,26.71,0.0499,1,switch_cash_to_points_ab
+11,Creekside Residences,Dubai,4,app_only,265.0,296.8,cash,0.044,0.044,283.74,0.0,0.0058,1,lead_time_tiered_app
+11,Creekside Residences,Dubai,4,cart_recovery,265.0,296.8,points,0.075,0.036,296.8,22.26,0.0571,1,basket_floor_180_points
+11,Creekside Residences,Dubai,4,blanket_promo,265.0,296.8,points,0.05,0.024,296.8,14.84,0.0691,1,retire_blanket_coupon
+12,Downtown Pearl,Dubai,5,public_parity,328.6,368.03,none,0.0,0.0,368.03,0.0,0.0931,1,keep_parity_lock
+12,Downtown Pearl,Dubai,5,member_web,328.6,368.03,points,0.09,0.0432,368.03,33.12,0.0499,1,switch_cash_to_points_ab
+12,Downtown Pearl,Dubai,5,app_only,328.6,368.03,cash,0.044,0.044,351.84,0.0,0.0058,1,lead_time_tiered_app
+12,Downtown Pearl,Dubai,5,cart_recovery,328.6,368.03,points,0.075,0.036,368.03,27.6,0.0571,1,basket_floor_180_points
+12,Downtown Pearl,Dubai,5,blanket_promo,328.6,368.03,points,0.05,0.024,368.03,18.4,0.0691,1,retire_blanket_coupon
+13,Chiado Terrace,Lisbon,3,public_parity,156.52,175.3,none,0.0,0.0,175.3,0.0,0.0931,1,keep_parity_lock
+13,Chiado Terrace,Lisbon,3,member_web,156.52,175.3,points,0.09,0.0432,175.3,15.78,0.0499,1,switch_cash_to_points_ab
+13,Chiado Terrace,Lisbon,3,app_only,156.52,175.3,cash,0.044,0.044,167.59,0.0,0.0058,1,lead_time_tiered_app
+13,Chiado Terrace,Lisbon,3,cart_recovery,156.52,175.3,points,0.075,0.036,175.3,13.15,0.0571,1,basket_floor_180_points
+13,Chiado Terrace,Lisbon,3,blanket_promo,156.52,175.3,points,0.05,0.024,175.3,8.77,0.0691,1,retire_blanket_coupon
+14,Avenida Park Hotel,Lisbon,4,public_parity,182.0,203.84,none,0.0,0.0,203.84,0.0,0.0931,1,keep_parity_lock
+14,Avenida Park Hotel,Lisbon,4,member_web,182.0,203.84,points,0.09,0.0432,203.84,18.35,0.0499,1,switch_cash_to_points_ab
+14,Avenida Park Hotel,Lisbon,4,app_only,182.0,203.84,cash,0.044,0.044,194.87,0.0,0.0058,1,lead_time_tiered_app
+14,Avenida Park Hotel,Lisbon,4,cart_recovery,182.0,203.84,points,0.075,0.036,203.84,15.29,0.0571,1,basket_floor_180_points
+14,Avenida Park Hotel,Lisbon,4,blanket_promo,182.0,203.84,points,0.05,0.024,203.84,10.19,0.0691,1,retire_blanket_coupon
+15,Tagus View Inn,Lisbon,5,public_parity,225.68,252.76,none,0.0,0.0,252.76,0.0,0.0931,1,keep_parity_lock
+15,Tagus View Inn,Lisbon,5,member_web,225.68,252.76,points,0.09,0.0432,252.76,22.75,0.0499,1,switch_cash_to_points_ab
+15,Tagus View Inn,Lisbon,5,app_only,225.68,252.76,cash,0.044,0.044,241.64,0.0,0.0058,1,lead_time_tiered_app
+15,Tagus View Inn,Lisbon,5,cart_recovery,225.68,252.76,points,0.075,0.036,252.76,18.96,0.0571,1,basket_floor_180_points
+15,Tagus View Inn,Lisbon,5,blanket_promo,225.68,252.76,points,0.05,0.024,252.76,12.64,0.0691,1,retire_blanket_coupon
+16,Old Town Lantern,Prague,3,public_parity,132.44,148.33,none,0.0,0.0,148.33,0.0,0.0931,1,keep_parity_lock
+16,Old Town Lantern,Prague,3,member_web,132.44,148.33,points,0.09,0.0432,148.33,13.35,0.0499,1,switch_cash_to_points_ab
+16,Old Town Lantern,Prague,3,app_only,132.44,148.33,cash,0.044,0.044,141.8,0.0,0.0057,1,lead_time_tiered_app
+16,Old Town Lantern,Prague,3,cart_recovery,132.44,148.33,points,0.075,0.036,148.33,11.12,0.0571,1,basket_floor_180_points
+16,Old Town Lantern,Prague,3,blanket_promo,132.44,148.33,points,0.05,0.024,148.33,7.42,0.0691,1,retire_blanket_coupon
+17,Vltava Grand,Prague,4,public_parity,154.0,172.48,none,0.0,0.0,172.48,0.0,0.0931,1,keep_parity_lock
+17,Vltava Grand,Prague,4,member_web,154.0,172.48,points,0.09,0.0432,172.48,15.52,0.0499,1,switch_cash_to_points_ab
+17,Vltava Grand,Prague,4,app_only,154.0,172.48,cash,0.044,0.044,164.89,0.0,0.0058,1,lead_time_tiered_app
+17,Vltava Grand,Prague,4,cart_recovery,154.0,172.48,points,0.075,0.036,172.48,12.94,0.0571,1,basket_floor_180_points
+17,Vltava Grand,Prague,4,blanket_promo,154.0,172.48,points,0.05,0.024,172.48,8.62,0.0691,1,retire_blanket_coupon
+18,Vinohrady Court,Prague,5,public_parity,190.96,213.88,none,0.0,0.0,213.88,0.0,0.0932,1,keep_parity_lock
+18,Vinohrady Court,Prague,5,member_web,190.96,213.88,points,0.09,0.0432,213.88,19.25,0.05,1,switch_cash_to_points_ab
+18,Vinohrady Court,Prague,5,app_only,190.96,213.88,cash,0.044,0.044,204.47,0.0,0.0058,1,lead_time_tiered_app
+18,Vinohrady Court,Prague,5,cart_recovery,190.96,213.88,points,0.075,0.036,213.88,16.04,0.0572,1,basket_floor_180_points
+18,Vinohrady Court,Prague,5,blanket_promo,190.96,213.88,points,0.05,0.024,213.88,10.69,0.0692,1,retire_blanket_coupon
+19,Ringstrasse Hof,Vienna,3,public_parity,161.68,181.08,none,0.0,0.0,181.08,0.0,0.0931,1,keep_parity_lock
+19,Ringstrasse Hof,Vienna,3,member_web,161.68,181.08,points,0.09,0.0432,181.08,16.3,0.0499,1,switch_cash_to_points_ab
+19,Ringstrasse Hof,Vienna,3,app_only,161.68,181.08,cash,0.044,0.044,173.11,0.0,0.0057,1,lead_time_tiered_app
+19,Ringstrasse Hof,Vienna,3,cart_recovery,161.68,181.08,points,0.075,0.036,181.08,13.58,0.0571,1,basket_floor_180_points
+19,Ringstrasse Hof,Vienna,3,blanket_promo,161.68,181.08,points,0.05,0.024,181.08,9.05,0.0691,1,retire_blanket_coupon
+20,Belvedere Suites,Vienna,4,public_parity,188.0,210.56,none,0.0,0.0,210.56,0.0,0.0931,1,keep_parity_lock
+20,Belvedere Suites,Vienna,4,member_web,188.0,210.56,points,0.09,0.0432,210.56,18.95,0.0499,1,switch_cash_to_points_ab
+20,Belvedere Suites,Vienna,4,app_only,188.0,210.56,cash,0.044,0.044,201.3,0.0,0.0058,1,lead_time_tiered_app
+20,Belvedere Suites,Vienna,4,cart_recovery,188.0,210.56,points,0.075,0.036,210.56,15.79,0.0571,1,basket_floor_180_points
+20,Belvedere Suites,Vienna,4,blanket_promo,188.0,210.56,points,0.05,0.024,210.56,10.53,0.0691,1,retire_blanket_coupon
+21,Leopold Boutique,Vienna,5,public_parity,233.12,261.09,none,0.0,0.0,261.09,0.0,0.0931,1,keep_parity_lock
+21,Leopold Boutique,Vienna,5,member_web,233.12,261.09,points,0.09,0.0432,261.09,23.5,0.0499,1,switch_cash_to_points_ab
+21,Leopold Boutique,Vienna,5,app_only,233.12,261.09,cash,0.044,0.044,249.6,0.0,0.0057,1,lead_time_tiered_app
+21,Leopold Boutique,Vienna,5,cart_recovery,233.12,261.09,points,0.075,0.036,261.09,19.58,0.0571,1,basket_floor_180_points
+21,Leopold Boutique,Vienna,5,blanket_promo,233.12,261.09,points,0.05,0.024,261.09,13.05,0.0691,1,retire_blanket_coupon
+22,Syntagma Square Inn,Athens,3,public_parity,139.32,156.04,none,0.0,0.0,156.04,0.0,0.0932,1,keep_parity_lock
+22,Syntagma Square Inn,Athens,3,member_web,139.32,156.04,points,0.09,0.0432,156.04,14.04,0.05,1,switch_cash_to_points_ab
+22,Syntagma Square Inn,Athens,3,app_only,139.32,156.04,cash,0.044,0.044,149.17,0.0,0.0057,1,lead_time_tiered_app
+22,Syntagma Square Inn,Athens,3,cart_recovery,139.32,156.04,points,0.075,0.036,156.04,11.7,0.0572,1,basket_floor_180_points
+22,Syntagma Square Inn,Athens,3,blanket_promo,139.32,156.04,points,0.05,0.024,156.04,7.8,0.0692,1,retire_blanket_coupon
+23,Plaka Heritage,Athens,4,public_parity,162.0,181.44,none,0.0,0.0,181.44,0.0,0.0931,1,keep_parity_lock
+23,Plaka Heritage,Athens,4,member_web,162.0,181.44,points,0.09,0.0432,181.44,16.33,0.0499,1,switch_cash_to_points_ab
+23,Plaka Heritage,Athens,4,app_only,162.0,181.44,cash,0.044,0.044,173.46,0.0,0.0058,1,lead_time_tiered_app
+23,Plaka Heritage,Athens,4,cart_recovery,162.0,181.44,points,0.075,0.036,181.44,13.61,0.0571,1,basket_floor_180_points
+23,Plaka Heritage,Athens,4,blanket_promo,162.0,181.44,points,0.05,0.024,181.44,9.07,0.0691,1,retire_blanket_coupon
+24,Koukaki Rooms,Athens,5,public_parity,200.88,224.99,none,0.0,0.0,224.99,0.0,0.0932,1,keep_parity_lock
+24,Koukaki Rooms,Athens,5,member_web,200.88,224.99,points,0.09,0.0432,224.99,20.25,0.05,1,switch_cash_to_points_ab
+24,Koukaki Rooms,Athens,5,app_only,200.88,224.99,cash,0.044,0.044,215.09,0.0,0.0058,1,lead_time_tiered_app
+24,Koukaki Rooms,Athens,5,cart_recovery,200.88,224.99,points,0.075,0.036,224.99,16.87,0.0572,1,basket_floor_180_points
+24,Koukaki Rooms,Athens,5,blanket_promo,200.88,224.99,points,0.05,0.024,224.99,11.25,0.0692,1,retire_blanket_coupon

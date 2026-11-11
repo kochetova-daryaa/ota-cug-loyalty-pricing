@@ -1,0 +1,28 @@
+// Keystone - Power BI DAX Measures (Closed-User-Group, Loyalty & Promo Pricing)
+
+Total Sessions = COUNTROWS(fact_sessions)
+
+Total Bookings = SUM(fact_sessions[converted])
+
+Conversion Rate = DIVIDE([Total Bookings], [Total Sessions], 0)
+
+Gross Booking Value (EUR) = SUM(fact_sessions[gbv])
+
+Markup Before Promo (EUR) = SUM(fact_sessions[net_revenue_before_promo])
+
+Realized Promo & Points Cost (EUR) = SUM(fact_sessions[promo_cost])
+
+Cannibalized Promo Cost (EUR) = SUM(fact_sessions[cannibalized_promo_cost])
+
+Cannibalization Share =
+DIVIDE(
+    CALCULATE(SUM(fact_sessions[cannibalized]), fact_sessions[converted] = 1),
+    [Total Bookings],
+    0
+)
+
+Net Contribution (EUR) = SUM(fact_sessions[contribution])
+
+Net Contribution per Session (EUR) = DIVIDE([Net Contribution (EUR)], [Total Sessions], 0)
+
+Net Margin on GBV = DIVIDE([Net Contribution (EUR)], [Gross Booking Value (EUR)], 0)

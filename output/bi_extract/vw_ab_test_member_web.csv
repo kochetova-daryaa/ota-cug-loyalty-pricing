@@ -1,0 +1,3 @@
+fence_id,variant,mechanic,sessions,bookings,conversion_rate,gbv,promo_cost,contribution,contribution_per_session,cancel_rate
+member_web,control_cash,cash,29904,1362,0.04555,738018.23,40917.43,19312.52,0.6458,0.1013
+member_web,treatment_points,points,30433,1484,0.04876,806667.71,32201.59,33880.05,1.1133,0.0984
